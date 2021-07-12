@@ -50,7 +50,7 @@ switch(option){
 
 
 
-int main(){
+int main(int argc, char *argv[]){
     while(1){
          main_menu();
     }
