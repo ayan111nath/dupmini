@@ -4,6 +4,8 @@
 #include "inc/menu.h"
 #include "src/fundamental_operations.c"
 #include "src/menu.c"
+#include "src/other_operations.c"
+#include "src/trignometric_operations.c"
 /*enum operations{ ADD=1,SUBTRACT,MULTIPLY,DIVIDE,EXIT };
 void fundamental_operations(int option){
     static operands all = {0, 0};
