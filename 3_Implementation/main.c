@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include <math.h>
 #include "inc/calculator_operations.h"
 #include "inc/menu.h"
 #include "src/fundamental_operations.c"
