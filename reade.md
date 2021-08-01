@@ -9,23 +9,22 @@
 
 |ADC_00|ADC_11|
 |:--:|:--:|
-|![ADC_00](https://user-images.githubusercontent.com/80662569/116461383-d0ac4680-a885-11eb-84b5-dc8d17cff3dc.PNG) |![ADC_11](https://user-images.githubusercontent.com/80662569/116461375-cdb15600-a885-11eb-805c-2dc73d198a3d.PNG)|
+|![image](https://user-images.githubusercontent.com/86368869/127766636-c6aa5c55-4476-4295-a6f3-c124ace0d5d7.png)|![image](https://user-images.githubusercontent.com/86368869/127766649-732e5769-d314-4816-ab04-3913239668f7.png)|
 
 ## Activity-3 In Action
 
 |PWM_20%|PWM_40%|
 |:--:|:--:|
-|![PWM_20%](https://user-images.githubusercontent.com/80662569/116461901-72cc2e80-a886-11eb-8525-42061d74f693.PNG) |![PWM_40%](https://user-images.githubusercontent.com/80662569/116461893-7069d480-a886-11eb-859b-1ec11c368164.PNG)|
+|![image](https://user-images.githubusercontent.com/86368869/127766688-1c21e7eb-e32f-4399-a3a0-c9c399f66323.png) |![image](https://user-images.githubusercontent.com/86368869/127766702-1b0ee170-ebb9-43c6-b6a2-d27f2bc888a5.png)|
 |PWM_70%|PWM_95%|
-|![PWM_70%](https://user-images.githubusercontent.com/80662569/116461897-72339800-a886-11eb-9006-369b7be40d44.PNG)|![PWM_95%](https://user-images.githubusercontent.com/80662569/116461900-72339800-a886-11eb-8eea-43aeae327bea.PNG)|
-
+|![image](https://user-images.githubusercontent.com/86368869/127766722-4a8b821b-bc64-4411-a062-3c6000aa29f3.png)|![image](https://user-images.githubusercontent.com/86368869/127766728-ca741566-6ae6-45c4-b844-937acb990b9f.png)|
 ## Activity-4 In Action
 
 |20 DEGREES|25 DEGREES|
 |:--:|:--:|
-|![20](https://user-images.githubusercontent.com/80662569/116462498-20d7d880-a887-11eb-827d-3c4601f65f82.PNG) |![25](https://user-images.githubusercontent.com/80662569/116462506-22a19c00-a887-11eb-9f96-e03d69035c7e.PNG)|
+|![image](https://user-images.githubusercontent.com/86368869/127766746-00d2acb4-25e5-4a12-bfd2-e1eefacdaea3.png)|![image](https://user-images.githubusercontent.com/86368869/127766754-3d259d89-ab28-4233-b883-569bbb303c30.png)|
 |29 DEGREES|33 DEGREES|
-|![29](https://user-images.githubusercontent.com/80662569/116462509-233a3280-a887-11eb-9b8f-c925bc36cdcd.PNG)|![33](https://user-images.githubusercontent.com/80662569/116462511-233a3280-a887-11eb-91a9-a11098dc7529.PNG)|
+|![image](https://user-images.githubusercontent.com/86368869/127766769-85693c67-7070-4453-978c-500905c32771.png)|![image](https://user-images.githubusercontent.com/86368869/127766787-471a6c8e-cdb7-46c3-aae5-ab721b7b3b61.png)|
 
 ### CI and Code Quality
 
